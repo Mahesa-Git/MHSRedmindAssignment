@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHSRedmindAssignment", "MHSRedmindAssignment\MHSRedmindAssignment.csproj", "{83DD719B-2001-4796-A5AB-D1CF6F6DAAC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHSRedmindAssignment.Tests", "MHSRedmindAssignment.Tests\MHSRedmindAssignment.Tests.csproj", "{5BF93D01-34FB-4C2F-AD8E-18F28D4F9082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83DD719B-2001-4796-A5AB-D1CF6F6DAAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83DD719B-2001-4796-A5AB-D1CF6F6DAAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83DD719B-2001-4796-A5AB-D1CF6F6DAAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83DD719B-2001-4796-A5AB-D1CF6F6DAAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF93D01-34FB-4C2F-AD8E-18F28D4F9082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF93D01-34FB-4C2F-AD8E-18F28D4F9082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF93D01-34FB-4C2F-AD8E-18F28D4F9082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF93D01-34FB-4C2F-AD8E-18F28D4F9082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBDCB654-FEEB-4ABC-A179-DA72ABFC5B49}
+	EndGlobalSection
+EndGlobal
